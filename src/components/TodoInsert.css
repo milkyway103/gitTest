@@ -1,0 +1,17 @@
+.TodoInsert {
+    display: flex;
+    height: 40px;
+}
+
+.TodoInsert button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+}
+
+.TodoInsert input {
+    flex: 1;
+    font-size: 24px;
+    padding-left: 10px;
+}
